@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 940" role="img" aria-labelledby="t d">
+<title id="t">Temporary portrait placeholder</title><desc id="d">A warm editorial illustration of a person, labelled as a placeholder for Khushi's own photograph.</desc>
+<rect width="800" height="940" fill="#d9c8bd"/><circle cx="645" cy="165" r="100" fill="#e98c78" opacity=".75"/><path d="M0 710 Q190 610 390 720 T800 690 V940 H0Z" fill="#702d3d"/>
+<path d="M205 940 Q225 650 400 630 Q590 640 625 940Z" fill="#b8a8d6"/>
+<path d="M282 360 Q260 180 410 150 Q570 150 565 365 L540 560 Q510 660 410 670 Q300 650 270 535Z" fill="#292326"/>
+<ellipse cx="415" cy="390" rx="142" ry="184" fill="#bd826d"/>
+<path d="M270 365 Q240 155 420 145 Q590 140 560 370 Q520 280 470 265 Q380 310 275 290Z" fill="#292326"/>
+<path d="M310 405 Q345 390 370 405 M450 405 Q480 390 510 405" stroke="#292326" stroke-width="9" fill="none" stroke-linecap="round"/>
+<path d="M390 480 Q415 495 440 480" stroke="#702d3d" stroke-width="7" fill="none" stroke-linecap="round"/>
+<path d="M345 550 Q415 585 485 550" stroke="#702d3d" stroke-width="8" fill="none" stroke-linecap="round"/>
+<path d="M335 645 L415 760 L495 645" fill="#f4ebdd"/>
+<text x="400" y="865" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" letter-spacing="5" fill="#f4ebdd">YOUR PHOTO GOES HERE</text>
+</svg>
